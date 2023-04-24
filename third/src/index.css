@@ -1,0 +1,27 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.heading{
+  color:rgb(167, 41, 41);
+  text-transform: capitalize;
+  text-shadow: 2px 1px 1px silver;
+  font-weight: bold;
+  text-align: center;
+  margin: 70px 0px ;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Roboto Slab', serif;
+}
+
+.img_div{
+  display: flex;
+justify-content: center;
+}
+
+.img_div img{
+  height: 300px;
+  width: 250px;
+  display: flex;
+}
