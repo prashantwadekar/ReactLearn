@@ -1,0 +1,13 @@
+h1{
+  color: aquamarine;
+  position: relative; 
+ left: 50%;
+ display: block;
+
+}
+button{
+  position: relative; 
+ left: 50%;
+  color: blueviolet;
+  display: block;
+}
